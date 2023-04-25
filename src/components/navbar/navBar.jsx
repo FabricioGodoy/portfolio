@@ -22,7 +22,7 @@ export const NavBar = () => {
       <nav className="navigation">
         <ul>
           <li>
-            <a>Contacto</a>
+            <a>Contactoooo</a>
          <ul>
               <li>
               <a href="https://www.linkedin.com/in/fabricio-godoy-19b366190/"  target="_blank" rel="noopener noreferrer"> <img className="iconContact"   src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
