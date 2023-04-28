@@ -22,7 +22,7 @@ export const NavBar = () => {
       <nav className="navigation">
         <ul>
         <li>
-            <a href="/index">Inicio</a>
+            <a href="/">Inicio</a>
           {/*   <ul>
               <li>
                 <a href="/capacitaciones">Capacitaciones</a>

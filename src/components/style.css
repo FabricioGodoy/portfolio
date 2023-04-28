@@ -1,5 +1,11 @@
-.home{
-    margin-top: 2rem;
+.homePage{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 4rem auto;
  background-color: red;
- font-size: 100px;
+}
+.imgHome{
+
+    margin: auto;
+    opacity: 0.8;
 }
