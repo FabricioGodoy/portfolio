@@ -1,11 +1,51 @@
 .homePage{
+  /*   display: grid;
+    place-items: center;*/
+    margin: 4.5rem auto;
+    background-color: #f0f0f0;
+    padding: 20px;
     display: flex;
     flex-wrap: wrap;
-    margin: 4rem auto;
- background-color: red;
+    justify-content: center;
 }
-.imgHome{
-
-    margin: auto;
-    opacity: 0.8;
+.containerTitlle{
+  /*   display: flex;
+    flex-wrap: nowrap; */
+    text-align: center;
+    width: 100%;
+}
+.titlleh3 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .titlleh1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .titlleh5 {
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #666;
+  }
+  
+  .imgHome {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    opacity: 0.9;
+    padding: .3rem;
+    width: 25%;
+    min-width: 100px;
+    border-radius: 100px;
+    box-shadow: 5px 5px 100px rgba(0, 0, 0, 0.3);
+    transition: all 1s ease;
+  }
+.imgHome:hover{
+    opacity: 1;
 }
