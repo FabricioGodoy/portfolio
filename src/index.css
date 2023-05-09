@@ -8,3 +8,6 @@ body{
   font-family: 'monospace','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   scroll-behavior: smooth;
 }
+html {
+	scroll-behavior: smooth;
+}

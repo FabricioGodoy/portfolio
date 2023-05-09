@@ -1,0 +1,28 @@
+.projectsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3rem 0;
+    justify-content: space-around;
+}
+.projectsContainer li{
+    list-style: none;
+    margin: 1rem;
+    border: 1px solid #999999;
+    border-radius: 10px;
+    padding: .5rem;
+}
+.projectsContainer li:hover{
+    box-shadow: 1px 1px 10px #999999;
+}
+.linkProjects{
+    display: grid;
+    place-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.imgProjects{
+    width: 20vw;
+    margin: 0 0 2rem 0;
+    border-radius: 10px;
+}

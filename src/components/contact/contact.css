@@ -1,0 +1,10 @@
+.contactContainer{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5rem auto;
+    justify-content: space-evenly;
+}
+
+.contactContainer li{
+    list-style: none;
+}

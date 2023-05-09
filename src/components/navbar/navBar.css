@@ -37,7 +37,7 @@
   }
   .sticky {
     /*   background-color: rgb(41, 19, 19); */
-    opacity: 0;
+    opacity: 1; /* opacity: 0; !!!!! */
     background-color: #333;
   }
   .sticky:hover {
